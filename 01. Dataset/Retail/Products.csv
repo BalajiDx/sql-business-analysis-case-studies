@@ -1,0 +1,141 @@
+ProductID,ProductName,Category,Brand,ListPrice,UnitCost
+P0001,Staples item 01,Staples,Brand D,325.0,239.91
+P0002,Staples item 02,Staples,Own Label,350.0,263.8
+P0003,Staples item 03,Staples,Brand D,269.0,193.27
+P0004,Staples item 04,Staples,Brand B,302.0,202.66
+P0005,Staples item 05,Staples,Brand A,394.0,306.79
+P0006,Staples item 06,Staples,Brand D,122.0,97.06
+P0007,Staples item 07,Staples,Brand B,110.0,69.11
+P0008,Staples item 08,Staples,Brand C,119.0,97.4
+P0009,Staples item 09,Staples,Brand A,286.0,229.44
+P0010,Staples item 10,Staples,Brand A,90.0,72.14
+P0011,Staples item 11,Staples,Brand A,198.0,148.39
+P0012,Staples item 12,Staples,Brand D,169.0,135.87
+P0013,Staples item 13,Staples,Brand A,177.0,122.43
+P0014,Staples item 14,Staples,Brand D,151.0,95.58
+P0015,Dairy item 01,Dairy,Brand A,47.0,34.59
+P0016,Dairy item 02,Dairy,Own Label,152.0,122.56
+P0017,Dairy item 03,Dairy,Brand C,140.0,104.85
+P0018,Dairy item 04,Dairy,Brand B,38.0,25.91
+P0019,Dairy item 05,Dairy,Own Label,168.0,106.42
+P0020,Dairy item 06,Dairy,Brand B,77.0,52.08
+P0021,Dairy item 07,Dairy,Brand A,115.0,73.2
+P0022,Dairy item 08,Dairy,Brand B,154.0,116.05
+P0023,Dairy item 09,Dairy,Brand B,38.0,24.19
+P0024,Dairy item 10,Dairy,Brand B,75.0,56.16
+P0025,Dairy item 11,Dairy,Own Label,89.0,69.87
+P0026,Dairy item 12,Dairy,Brand A,75.0,56.06
+P0027,Dairy item 13,Dairy,Brand C,75.0,53.16
+P0028,Dairy item 14,Dairy,Own Label,142.0,105.18
+P0029,Dairy item 15,Dairy,Brand A,109.0,74.02
+P0030,Dairy item 16,Dairy,Brand B,114.0,85.94
+P0031,Dairy item 17,Dairy,Own Label,176.0,111.15
+P0032,Dairy item 18,Dairy,Own Label,43.0,31.19
+P0033,Dairy item 19,Dairy,Brand C,175.0,142.84
+P0034,Dairy item 20,Dairy,Own Label,133.0,102.68
+P0035,Dairy item 21,Dairy,Own Label,89.0,57.08
+P0036,Personal Care item 01,Personal Care,Brand A,586.0,455.75
+P0037,Personal Care item 02,Personal Care,Own Label,71.0,53.09
+P0038,Personal Care item 03,Personal Care,Own Label,146.0,93.37
+P0039,Personal Care item 04,Personal Care,Brand C,486.0,381.15
+P0040,Personal Care item 05,Personal Care,Brand B,65.0,42.91
+P0041,Personal Care item 06,Personal Care,Brand A,352.0,286.58
+P0042,Personal Care item 07,Personal Care,Brand A,333.0,251.73
+P0043,Personal Care item 08,Personal Care,Brand C,121.0,95.88
+P0044,Personal Care item 09,Personal Care,Own Label,508.0,360.47
+P0045,Personal Care item 10,Personal Care,Brand D,428.0,279.04
+P0046,Personal Care item 11,Personal Care,Own Label,220.0,138.82
+P0047,Personal Care item 12,Personal Care,Brand A,342.0,235.64
+P0048,Personal Care item 13,Personal Care,Own Label,165.0,123.63
+P0049,Personal Care item 14,Personal Care,Own Label,142.0,90.28
+P0050,Personal Care item 15,Personal Care,Brand A,452.0,284.35
+P0051,Personal Care item 16,Personal Care,Brand C,464.0,290.74
+P0052,Personal Care item 17,Personal Care,Own Label,228.0,186.36
+P0053,Personal Care item 18,Personal Care,Brand B,292.0,191.89
+P0054,Personal Care item 19,Personal Care,Brand A,195.0,149.95
+P0055,Household item 01,Household,Brand D,588.0,447.89
+P0056,Household item 02,Household,Own Label,578.0,433.16
+P0057,Household item 03,Household,Brand A,821.0,660.89
+P0058,Household item 04,Household,Brand D,405.0,316.47
+P0059,Household item 05,Household,Brand C,85.0,62.58
+P0060,Household item 06,Household,Brand B,890.0,641.22
+P0061,Household item 07,Household,Brand D,728.0,455.04
+P0062,Household item 08,Household,Brand B,150.0,106.54
+P0063,Household item 09,Household,Brand C,202.0,162.28
+P0064,Household item 10,Household,Brand D,135.0,101.89
+P0065,Household item 11,Household,Brand B,220.0,169.95
+P0066,Household item 12,Household,Own Label,359.0,238.69
+P0067,Household item 13,Household,Brand A,852.0,624.52
+P0068,Household item 14,Household,Brand B,532.0,370.28
+P0069,Beverages item 01,Beverages,Brand B,191.0,121.02
+P0070,Beverages item 02,Beverages,Brand A,119.0,92.14
+P0071,Beverages item 03,Beverages,Brand D,60.0,39.55
+P0072,Beverages item 04,Beverages,Brand A,141.0,96.89
+P0073,Beverages item 05,Beverages,Own Label,149.0,107.43
+P0074,Beverages item 06,Beverages,Brand A,184.0,115.95
+P0075,Beverages item 07,Beverages,Own Label,191.0,135.06
+P0076,Beverages item 08,Beverages,Brand D,63.0,40.74
+P0077,Beverages item 09,Beverages,Brand A,302.0,228.16
+P0078,Beverages item 10,Beverages,Brand D,126.0,84.64
+P0079,Beverages item 11,Beverages,Own Label,179.0,111.96
+P0080,Beverages item 12,Beverages,Brand D,275.0,195.71
+P0081,Beverages item 13,Beverages,Brand B,155.0,104.63
+P0082,Beverages item 14,Beverages,Brand A,161.0,121.68
+P0083,Beverages item 15,Beverages,Own Label,42.0,28.37
+P0084,Beverages item 16,Beverages,Own Label,168.0,136.55
+P0085,Beverages item 17,Beverages,Brand A,39.0,25.28
+P0086,Beverages item 18,Beverages,Brand C,220.0,139.42
+P0087,Beverages item 19,Beverages,Brand C,113.0,83.79
+P0088,Beverages item 20,Beverages,Brand B,257.0,206.78
+P0089,Snacks item 01,Snacks,Brand A,66.0,50.03
+P0090,Snacks item 02,Snacks,Brand A,101.0,66.09
+P0091,Snacks item 03,Snacks,Brand D,249.0,178.3
+P0092,Snacks item 04,Snacks,Brand D,229.0,155.47
+P0093,Snacks item 05,Snacks,Own Label,239.0,175.06
+P0094,Snacks item 06,Snacks,Brand C,247.0,184.79
+P0095,Snacks item 07,Snacks,Brand C,142.0,105.93
+P0096,Snacks item 08,Snacks,Brand B,245.0,167.28
+P0097,Snacks item 09,Snacks,Brand A,83.0,66.06
+P0098,Snacks item 10,Snacks,Brand D,212.0,152.38
+P0099,Snacks item 11,Snacks,Brand C,11.0,7.72
+P0100,Snacks item 12,Snacks,Own Label,203.0,128.76
+P0101,Snacks item 13,Snacks,Brand D,236.0,170.74
+P0102,Snacks item 14,Snacks,Own Label,36.0,26.06
+P0103,Snacks item 15,Snacks,Brand D,131.0,88.29
+P0104,Snacks item 16,Snacks,Own Label,182.0,116.52
+P0105,Fresh Produce item 01,Fresh Produce,Brand B,25.0,15.56
+P0106,Fresh Produce item 02,Fresh Produce,Own Label,185.0,148.35
+P0107,Fresh Produce item 03,Fresh Produce,Brand C,201.0,127.19
+P0108,Fresh Produce item 04,Fresh Produce,Own Label,162.0,128.27
+P0109,Fresh Produce item 05,Fresh Produce,Brand D,211.0,158.43
+P0110,Fresh Produce item 06,Fresh Produce,Brand A,144.0,97.47
+P0111,Fresh Produce item 07,Fresh Produce,Brand A,94.0,64.09
+P0112,Fresh Produce item 08,Fresh Produce,Brand B,102.0,75.09
+P0113,Fresh Produce item 09,Fresh Produce,Own Label,191.0,152.36
+P0114,Fresh Produce item 10,Fresh Produce,Brand C,77.0,50.11
+P0115,Fresh Produce item 11,Fresh Produce,Own Label,96.0,74.88
+P0116,Fresh Produce item 12,Fresh Produce,Brand A,69.0,47.1
+P0117,Fresh Produce item 13,Fresh Produce,Brand B,133.0,91.0
+P0118,Fresh Produce item 14,Fresh Produce,Brand A,91.0,70.45
+P0119,Fresh Produce item 15,Fresh Produce,Brand B,73.0,52.53
+P0120,Fresh Produce item 16,Fresh Produce,Brand D,43.0,33.13
+P0121,Fresh Produce item 17,Fresh Produce,Brand A,105.0,78.46
+P0122,Fresh Produce item 18,Fresh Produce,Brand B,191.0,138.1
+P0123,Fresh Produce item 19,Fresh Produce,Own Label,194.0,144.58
+P0124,Fresh Produce item 20,Fresh Produce,Brand C,45.0,32.21
+P0125,Home Appliances item 01,Home Appliances,Brand B,948.0,642.1
+P0126,Home Appliances item 02,Home Appliances,Own Label,6385.0,4084.45
+P0127,Home Appliances item 03,Home Appliances,Brand A,6888.0,5041.07
+P0128,Home Appliances item 04,Home Appliances,Brand A,7905.0,5805.84
+P0129,Home Appliances item 05,Home Appliances,Brand D,8085.0,5452.36
+P0130,Home Appliances item 06,Home Appliances,Own Label,6214.0,4384.92
+P0131,Home Appliances item 07,Home Appliances,Brand C,2520.0,1916.97
+P0132,Home Appliances item 08,Home Appliances,Own Label,9168.0,6648.75
+P0133,Home Appliances item 09,Home Appliances,Brand A,914.0,603.79
+P0134,Home Appliances item 10,Home Appliances,Brand D,1156.0,797.82
+P0135,Home Appliances item 11,Home Appliances,Brand C,4669.0,3738.1
+P0136,Home Appliances item 12,Home Appliances,Brand A,4430.0,2829.29
+P0137,Home Appliances item 13,Home Appliances,Brand B,3747.0,2553.58
+P0138,Home Appliances item 14,Home Appliances,Own Label,9118.0,7092.35
+P0139,Home Appliances item 15,Home Appliances,Brand C,11673.0,7964.31
+P0140,Home Appliances item 16,Home Appliances,Brand B,6511.0,4512.79

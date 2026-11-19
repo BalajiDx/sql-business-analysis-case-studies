@@ -1,0 +1,6 @@
+rfm_segment,customers,avg_recency_days,avg_orders,avg_spend_inr,revenue_share_pct
+1. Champions,879,93.0,5.4,10226.0,37.3
+2. Loyal / Potential,596,90.0,2.7,3890.0,9.6
+3. At risk (were frequent),971,400.0,5.1,9351.0,37.7
+4. Occasional,951,204.0,1.6,2320.0,9.1
+5. Lapsed,540,540.0,1.8,2819.0,6.3

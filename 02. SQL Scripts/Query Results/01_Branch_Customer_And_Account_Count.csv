@@ -1,0 +1,13 @@
+BranchID,BranchName,Region,customers,accounts,open_accounts,accounts_per_customer
+BR01,Puducherry Main,South-East,300,472,449,1.57
+BR05,Chennai T Nagar,Chennai,274,413,383,1.51
+BR10,Bengaluru MG Road,Karnataka,251,363,350,1.45
+BR06,Chennai Anna Nagar,Chennai,223,341,332,1.53
+BR12,Madurai Town,Southern TN,222,344,329,1.55
+BR08,Villupuram,South-East,213,322,310,1.51
+BR11,Coimbatore RS Puram,Western TN,210,322,308,1.53
+BR02,Lawspet,South-East,189,291,276,1.54
+BR04,Karaikal,South-East,167,257,250,1.54
+BR07,Cuddalore,South-East,163,243,235,1.49
+BR03,Villianur,South-East,159,252,237,1.58
+BR09,Tindivanam,South-East,129,191,183,1.48

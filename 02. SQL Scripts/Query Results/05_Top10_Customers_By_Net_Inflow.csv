@@ -1,0 +1,11 @@
+rnk,CustomerID,Segment,BranchName,net_inflow_inr,txns
+1,BC02310,MSME,Coimbatore RS Puram,590926.0,67
+2,BC01819,MSME,Chennai T Nagar,557696.0,8
+3,BC00138,MSME,Coimbatore RS Puram,479164.0,56
+4,BC00737,MSME,Villupuram,478903.0,57
+5,BC00031,MSME,Lawspet,409838.0,51
+6,BC02096,MSME,Villupuram,364427.0,13
+7,BC02334,MSME,Bengaluru MG Road,355997.0,12
+8,BC01414,MSME,Tindivanam,327491.0,58
+9,BC00518,MSME,Chennai T Nagar,321387.0,50
+10,BC02416,MSME,Bengaluru MG Road,308781.0,13

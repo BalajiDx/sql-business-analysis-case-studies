@@ -1,0 +1,4 @@
+LoyaltyTier,buyers,avg_orders,avg_spend_inr,aov_inr
+Gold,368,7.56,13059.0,1727.0
+Silver,1244,4.47,7794.0,1745.0
+None,2325,2.35,4135.0,1757.0

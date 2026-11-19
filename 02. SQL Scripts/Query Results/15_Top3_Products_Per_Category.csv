@@ -1,0 +1,25 @@
+Category,rank_in_category,ProductID,ProductName,Brand,revenue_inr
+Beverages,1,P0077,Beverages item 09,Brand A,247112.0
+Beverages,2,P0088,Beverages item 20,Brand B,221341.0
+Beverages,3,P0080,Beverages item 12,Brand D,218859.0
+Dairy,1,P0031,Dairy item 17,Own Label,197085.0
+Dairy,2,P0033,Dairy item 19,Brand C,187548.0
+Dairy,3,P0022,Dairy item 08,Brand B,173104.0
+Fresh Produce,1,P0109,Fresh Produce item 05,Brand D,241236.0
+Fresh Produce,2,P0122,Fresh Produce item 18,Brand B,217539.0
+Fresh Produce,3,P0106,Fresh Produce item 02,Own Label,213953.0
+Home Appliances,1,P0139,Home Appliances item 15,Brand C,344354.0
+Home Appliances,2,P0132,Home Appliances item 08,Own Label,241118.0
+Home Appliances,3,P0127,Home Appliances item 03,Brand A,231781.0
+Household,1,P0060,Household item 06,Brand B,569200.0
+Household,2,P0067,Household item 13,Brand A,558060.0
+Household,3,P0057,Household item 03,Brand A,542599.0
+Personal Care,1,P0036,Personal Care item 01,Brand A,423619.0
+Personal Care,2,P0039,Personal Care item 04,Brand C,388873.0
+Personal Care,3,P0044,Personal Care item 09,Own Label,345592.0
+Snacks,1,P0096,Snacks item 08,Brand B,275196.0
+Snacks,2,P0092,Snacks item 04,Brand D,229229.0
+Snacks,3,P0101,Snacks item 13,Brand D,228519.0
+Staples,1,P0005,Staples item 05,Brand A,383264.0
+Staples,2,P0002,Staples item 02,Own Label,355180.0
+Staples,3,P0001,Staples item 01,Brand D,339219.0
